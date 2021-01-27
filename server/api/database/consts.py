@@ -1,0 +1,3 @@
+TOKEN_EXPIRY = 1 / 24  # 1 hour
+EXCHANGE_TOKEN_EXPIRY = 1 / 24  # 1 hour
+REFRESH_TOKEN_EXPIRY = 365  # 1 year
